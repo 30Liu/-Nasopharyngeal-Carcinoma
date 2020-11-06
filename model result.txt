@@ -1,0 +1,12 @@
+1.dataset
+waterT1C-20200923
+
+2.best model
+
+1)pre
+pre-0.001-1(50: acc 0.79)
+pre-0.001-2(xx: acc 0.74)
+
+2)post
+post-0.001-1(xx: acc 0.74)
+post-0.001-2(91: acc 0.78)
